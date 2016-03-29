@@ -1,0 +1,15 @@
+{
+  "name": "trialsbot",
+  "version": "1.0.0",
+  "author": "Destiny Trials Report <destinytrialsreport@gmail.com>",
+  "description": "A slack bot that returns Trials of Osiris statistics and more.",
+  "dependencies": {
+    "moment": "^2.12.0",
+    "q": "^1.4.1",
+    "request": "^2.69.0",
+    "slack-client": "^1.4.1"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
