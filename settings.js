@@ -9,8 +9,8 @@ settings.slackToken = 'slack-token-here';
 settings.apiPath = 'http://api.destinytrialsreport.com/';
 settings.trigger = '!';
 //slack handles
-settings.admins = ['vlad', 'steffan', 'mark'];
-settings.channels = [];
+settings.admins = ['ic1415', 'Chad'];
+settings.channels = ['getrekt'];
 settings.groups = [];
 
 module.exports = settings;
