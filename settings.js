@@ -5,7 +5,7 @@
 // Initialize DTR Modules
 var settings = {};
 
-settings.slackToken = 'slack-token-here';
+settings.slackToken = 'xoxb-39881074755-Iha4X5yCtMGcTz5go4jo0Bu9';
 settings.apiPath = 'http://api.destinytrialsreport.com/';
 settings.trigger = '!';
 //slack handles
